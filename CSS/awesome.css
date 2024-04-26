@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'awesome';
-    src: url('fonts/awesome.eot');
-    src: url('fonts/awesome.eot') format('embedded-opentype'),
-         url('fonts/awesome.woff2') format('woff2'),
-         url('fonts/awesome.woff') format('woff'),
-         url('fonts/awesome.ttf') format('truetype'),
-         url('fonts/awesome.svg#awesome') format('svg');
-}
